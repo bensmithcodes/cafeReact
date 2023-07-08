@@ -20,41 +20,41 @@ export const MenuList = [
     description:
       "A mean maching making very comprehensive batches of coffee.",
     image: cofestore,
-    pricey: "$15 dollars",
+    pricey: "$15.00 ",
   },
   {
     name: "Mocha Latte",
     description:
       "Scrumptious shots of mocha latte with different whipped cream flavors!",
     image: mochacofee,
-    pricey: "3 dollars",
+    pricey: "$3.00 ",
   },
   {
     name: "Coco Coffee",
     description:
       "Dark lucrative cup of coffee that makes tastes buds great!",
     image: blkcofee,
-    pricey: "3 dollars",
+    pricey: "$3.00 ",
   },
   {
     name: "Light Roast",
     description:
       "Our choices of roast will be very supplemental to your diet.",
     image: roast,
-    pricey: "2 dollars",
+    pricey: "$2.00 ",
   },
   {
     name: "Chocolate Hot Drink",
     description:
       "Hot chocolate drink that makes you feel good.",
     image: chocolate,
-    pricey: "4 dollars",
+    pricey: "$4.00",
   },
   {
     name: "Fruit toast",
     description:
       "Amazing fruit toast with variety of flavors that are plentiful for you.",
     image: fruittoast,
-    pricey: "6 dollars",
+    pricey: "$6.00 ",
   },
 ];
